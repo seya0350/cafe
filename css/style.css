@@ -1,0 +1,243 @@
+@charset "UTF-8";
+
+html{
+    font-size: 100%;
+    width: 100%;
+}
+.header-mein{
+ background-image: url(../fot2/img1.jpg);
+ background-position: center;
+ background-size: cover;
+ width: 100%;
+ height: 100vh;
+}
+.header-img{
+  text-align: center;
+  padding-top: 10%;
+}
+header ul{
+    text-align: center;
+    padding-top: 2%;
+}
+header li{
+    color: #ffff;
+    font-family: Segoe Print;
+    display: inline-block;
+    font-size: 20px;  
+    position: relative;
+    padding: 0.3em;
+    padding: 0 9%;
+}
+header li::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 33%;
+    height: 5px;
+    background: repeating-linear-gradient(-45deg, black, black 2px, white 2px, white 4px);
+    margin-left: 34%;
+    border-radius: 5px;
+}
+main{
+    background-color: #ffffff;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+        background-size: contain;
+      background-repeat: repeat;
+      
+}
+.article-karo img{
+    height: 25rem;
+    width: 25rem;
+
+}
+.article-karo{
+    display: flex;
+    padding-top: 2%;
+}
+
+.article-mein h1{
+    font-family: Lucida Handwriting;
+    padding-top: 8%;
+    padding-left: 17%;
+    font-size: 3rem;
+}
+.article-img{
+   display: block;
+   padding-left: 8rem;
+   padding-top: 12rem;
+   transform: rotate( -15deg );
+}
+.article-img-sabu{
+    display: block;
+    padding-left: 0;
+    padding-top: 2rem;
+}
+
+.article-osu{
+    display: flex;
+    flex-wrap: wrap;
+}
+.article-title{
+    writing-mode: vertical-rl;
+    font-family: BIZ UDP明朝;
+    color: #07b6b6;
+    font-size: 230%;
+   padding-left: 2rem;
+    letter-spacing: 1rem;
+    text-shadow:0 5px 5px black;
+}
+.arcticle-explanation{
+    display: block;
+    font-family:BIZ UDP明朝;
+    font-size: 250%;
+    letter-spacing:12px;
+    line-height: 110%;
+    padding-left: 12em;
+    color: #ffffff;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+
+}
+
+.section-mein{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 4rem;
+}
+.section-mein img{
+    height: 25rem;
+    width: 25rem;
+}
+.section-mein h1{
+    margin: auto;
+    font-family: Lucida Handwriting;
+    padding-top: 5%;
+    font-size: 3rem;
+    
+}
+section img{
+    max-width: 100%;
+}
+.centr{
+    max-width: 90%;
+    width: 500px;
+}
+ul{
+    display: flex;
+    margin: 0;
+    padding-left: 2%;
+    list-style-type: none;
+}
+li{
+   
+    margin-right: 3px;
+}
+li:last-of-type{
+    margin-right: 0;
+}
+li:hover{
+    opacity: 0.7;
+}
+ .center p{
+    font-family: sans-serif;
+}
+.cen{
+  text-align: center;
+}
+.place-head{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 4rem;
+}
+.place-head img{
+    height: 25rem;
+    width: 25rem;
+}
+.place-head h1{
+    margin: auto;
+    font-family: Lucida Handwriting;
+    padding-top: 5%;
+    font-size: 3rem;
+}
+.place-mein i{
+    color: rgb(0, 0, 0);
+    font-size: 1.7rem;
+    
+}
+.tizu{
+    text-align: center;
+}
+.place-footer1{
+    display: flex;
+    padding-left: 3%;
+    padding-top: 2%;
+}
+.place-footer1 p{
+    font-family: BIZ UDP明朝;
+    font-size: 1.8rem;
+    color: #ffffff;
+    -webkit-text-stroke: 0.7px rgb(0, 0, 0);
+    letter-spacing: 0.4em;
+}
+.place-footer1 p:nth-of-type(1){
+    margin-right: auto;
+}
+.place-footer2{
+    display: flex;
+    padding-right: 4%;
+    padding-top: 6%;
+}
+.place-footer2 p{
+    padding-left: 15px;
+}
+.footer-head{
+    display: flex;
+    padding-top: 2%;
+}
+.footer-head h1{
+    font-family: Lucida Handwriting;
+    padding-top: 8%;
+    padding-left: 17%;
+    font-size: 3rem;
+}
+.footer-head img{
+    height: 25rem;
+    width: 25rem;
+}
+.place-pas{
+    line-height: 1.5em;
+}
+.footer-mein{
+    font-family: BIZ UDP明朝;
+    color: #ffffff;
+    -webkit-text-stroke: 0.7px rgb(0, 0, 0);
+    font-size: 1.8rem;
+    letter-spacing: 0.2em;
+}
+.footer-li{
+   padding-top: 0.5%;
+   padding-left: 1.5%;
+}
+.footer-mein ul{
+    padding-top: 3%;
+    padding-left: 10%;
+}
+.did{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    margin-top: 7%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.did p{
+    color: #ffffff;
+    font-family: BIZ UDP明朝;
+    
+}
+a{
+    color: #ffffff;
+    text-decoration: none;
+}

@@ -1,0 +1,18 @@
+22:48:47:720 [ALWAYS]	GUDE Logging Started
+22:48:47:723 [INFO]	gude policy POLICY_USER limit (4,4,1) chunk 2097152, chunking (UL 0 DL 1), resXfer 1, adapt 0, NSURL 1, timeout 86400 
+22:48:47:723 [INFO]	Initialized -- gude-lib version: v0.10.4 app: gude
+22:54:33:412 [ALWAYS]	GUDE Logging Started
+22:54:33:413 [INFO]	gude policy POLICY_USER limit (4,4,1) chunk 2097152, chunking (UL 0 DL 1), resXfer 1, adapt 0, NSURL 1, timeout 86400 
+22:54:33:414 [INFO]	Initialized -- gude-lib version: v0.10.4 app: gude
+22:57:03:331 [ALWAYS]	GUDE Logging Started
+22:57:03:332 [INFO]	gude policy POLICY_USER limit (4,4,1) chunk 2097152, chunking (UL 0 DL 1), resXfer 1, adapt 0, NSURL 1, timeout 86400 
+22:57:03:332 [INFO]	Initialized -- gude-lib version: v0.10.4 app: gude
+23:00:42:530 [ALWAYS]	GUDE Logging Started
+23:00:42:531 [INFO]	gude policy POLICY_USER limit (4,4,1) chunk 2097152, chunking (UL 0 DL 1), resXfer 1, adapt 0, NSURL 1, timeout 86400 
+23:00:42:531 [INFO]	Initialized -- gude-lib version: v0.10.4 app: gude
+23:05:44:851 [ALWAYS]	GUDE Logging Started
+23:05:44:852 [INFO]	gude policy POLICY_USER limit (4,4,1) chunk 2097152, chunking (UL 0 DL 1), resXfer 1, adapt 0, NSURL 1, timeout 86400 
+23:05:44:852 [INFO]	Initialized -- gude-lib version: v0.10.4 app: gude
+23:19:48:238 [ALWAYS]	GUDE Logging Started
+23:19:48:239 [INFO]	gude policy POLICY_USER limit (4,4,1) chunk 2097152, chunking (UL 0 DL 1), resXfer 1, adapt 0, NSURL 1, timeout 86400 
+23:19:48:239 [INFO]	Initialized -- gude-lib version: v0.10.4 app: gude
